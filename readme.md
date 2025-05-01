@@ -15,12 +15,12 @@ TTS-AI is a text-to-speech and speech-to-text application with additional featur
 Before running the application, ensure you have the following Python libraries installed.
 
 
-**Step 1** : Activate the tts-ai environment
+**Step 1** : Downloading libraries
 
 Run the following command :
 
 ```bash
-tts-ai\Scripts\activate
+pip install -r requirements.txt
 ```
 
 **Step 2** : Run your program
